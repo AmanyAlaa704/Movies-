@@ -1,0 +1,16 @@
+D:\ITI-SD\MVC\layer\MVC\DAL\bin\Debug\DAL.dll.config
+D:\ITI-SD\MVC\layer\MVC\DAL\bin\Debug\DAL.dll
+D:\ITI-SD\MVC\layer\MVC\DAL\bin\Debug\DAL.pdb
+D:\ITI-SD\MVC\layer\MVC\DAL\bin\Debug\EntityFramework.dll
+D:\ITI-SD\MVC\layer\MVC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI-SD\MVC\layer\MVC\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ITI-SD\MVC\layer\MVC\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI-SD\MVC\layer\MVC\DAL\bin\Debug\EntityFramework.xml
+D:\ITI-SD\MVC\layer\MVC\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI-SD\MVC\layer\MVC\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ITI-SD\MVC\layer\MVC\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI-SD\MVC\layer\MVC\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\ITI-SD\MVC\layer\MVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ITI-SD\MVC\layer\MVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ITI-SD\MVC\layer\MVC\DAL\obj\Debug\DAL.dll
+D:\ITI-SD\MVC\layer\MVC\DAL\obj\Debug\DAL.pdb
